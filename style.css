@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 15px;
+    
+}
+
+.internalDivs{
+    height: 153px;
+    width: 303px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.colorText{
+    margin-top: 18%;
+    font-size: 1.8rem;
+    color: white;
+    font-weight: bold;
+}
+
